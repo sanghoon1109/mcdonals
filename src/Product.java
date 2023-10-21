@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Product extends Menu{
 
+
     static Scanner scan = new Scanner(System.in);
 
     HashMap<Integer, Menu> menuMap = new HashMap<>();
